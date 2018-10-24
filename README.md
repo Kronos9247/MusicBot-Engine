@@ -1,5 +1,5 @@
 # MusicBot-Engine
-A simple base for a annoying music bot! :)
+This is a simple music bot to annoy your classmates or some random dudes!
 
 ## Installation
 To correctly install the bot you must first download ```git```! Then you simple start the ```win-install.sh``` or the ```install.sh```

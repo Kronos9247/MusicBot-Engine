@@ -1,0 +1,19 @@
+{
+  "name": "musicbot-engine",
+  "version": "0.0.1",
+  "description": "A simple discord bot to annoy every person on a discord server!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "Discord.js"
+  ],
+  "author": "Kronos9247",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "ffmpeg-binaries": "^4.0.0",
+    "opusscript": "0.0.6"
+  }
+}

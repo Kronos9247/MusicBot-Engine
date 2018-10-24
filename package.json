@@ -4,7 +4,7 @@
   "description": "A simple discord bot to annoy every person on a discord server!",
   "main": "bot.js",
   "scripts": {
-    "test": "start"
+    "start": "node bot.js"
   },
   "keywords": [
     "Discord.js"
